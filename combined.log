@@ -1,0 +1,2880 @@
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T16:03:48.661Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T16:03:49.931Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T18:48:17.188Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T18:48:18.391Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:03:23.061Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:05:37.364Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:06:02.374Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:06:03.708Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:06:06.269Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:06:26.950Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:06:29.890Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:06:32.761Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:06:37.074Z'
+}
+{
+  message: 'Creating post with data in controller: "Hi"',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:06:37.078Z'
+}
+{
+  message: 'Creating post with data in service: Hi',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:06:37.079Z'
+}
+{
+  message: 'Creating Post with data: {"user":"67b162792ece6e5704acebd9","content":"Hi"}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:06:37.080Z'
+}
+{
+  message: 'Post created successfully with data: {"user":"67b162792ece6e5704acebd9","content":"Hi","mediaIds":[],"_id":"67b388bd420ead51d1d2529f","createdAt":"2025-02-17T19:06:37.087Z","updatedAt":"2025-02-17T19:06:37.087Z","__v":0}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:06:37.142Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:09:22.617Z'
+}
+{
+  message: 'Unauthorized request',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:09:22.618Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:09:24.196Z'
+}
+{
+  message: 'Unauthorized request',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:09:24.197Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:09:37.695Z'
+}
+{
+  message: 'Unauthorized request',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:09:37.695Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:09:44.225Z'
+}
+{
+  message: 'Unauthorized request',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:09:44.225Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:10:18.115Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:10:21.261Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:10:23.452Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:10:36.226Z'
+}
+{
+  message: 'Creating post with data in controller: "Hi"',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:10:36.229Z'
+}
+{
+  message: 'Creating post with data in service: Hi',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:10:36.230Z'
+}
+{
+  message: 'Creating Post with data: {"user":"67b162792ece6e5704acebd9","content":"Hi"}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:10:36.230Z'
+}
+{
+  message: 'Post created successfully with data: {"user":"67b162792ece6e5704acebd9","content":"Hi","mediaIds":[],"_id":"67b389ac902d7ab5614db04c","createdAt":"2025-02-17T19:10:36.234Z","updatedAt":"2025-02-17T19:10:36.234Z","__v":0}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:10:36.293Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:10:51.327Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:10:52.316Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:11:51.202Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:12:00.320Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:12:13.474Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:12:15.504Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:12:27.844Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:12:42.057Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:12:46.942Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:12:59.133Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:13:03.828Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:13:20.765Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:13:25.816Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:13:27.305Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:13:28.745Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:13:32.761Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:13:40.543Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:14:10.124Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:14:45.304Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:15:31.560Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:15:39.238Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:15:41.137Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:15:45.503Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:15:52.716Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:16:10.700Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:16:20.823Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:18:42.432Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:18:44.624Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:18:47.838Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:18:59.333Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:19:33.113Z'
+}
+{
+  message: 'Deleting post in controller: 67b389ac902d7ab5614db04c',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:19:33.114Z'
+}
+{
+  message: 'Deleting post with id in service: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:19:33.115Z'
+}
+{
+  message: 'Deleting Post with id: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:19:33.115Z'
+}
+{
+  message: 'Post deleted successfully with data: null',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:19:33.164Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:20:46.546Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:20:51.370Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:21:22.125Z'
+}
+{
+  message: 'Getting all posts in controller',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:21:22.127Z'
+}
+{
+  message: 'Getting all posts in service',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:21:22.128Z'
+}
+{
+  message: 'Getting all posts',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:21:22.128Z'
+}
+{
+  message: 'Posts fetched successfully with data: [{"_id":"67b388bd420ead51d1d2529f","user":"67b162792ece6e5704acebd9","content":"Hi","mediaIds":[],"createdAt":"2025-02-17T19:06:37.087Z","updatedAt":"2025-02-17T19:06:37.087Z","__v":0},{"_id":"67b389ac902d7ab5614db04c","user":"67b162792ece6e5704acebd9","content":"Hi","mediaIds":[],"createdAt":"2025-02-17T19:10:36.234Z","updatedAt":"2025-02-17T19:10:36.234Z","__v":0}]',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:21:22.192Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:22:16.326Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:23:54.263Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:24:12.531Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:24:13.879Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:24:19.139Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:24:52.770Z'
+}
+{
+  message: 'Deleting post in controller: 67b389ac902d7ab5614db04c23',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:24:52.771Z'
+}
+{
+  message: 'Deleting post with id in service: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:24:52.772Z'
+}
+{
+  message: 'Deleting Post with id: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:24:52.772Z'
+}
+{
+  message: 'Post deleted successfully with data: null',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:24:52.823Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:24:57.900Z'
+}
+{
+  message: 'Deleting post in controller: 67b389ac902d7ab5614db04c23554',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:24:57.901Z'
+}
+{
+  message: 'Deleting post with id in service: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:24:57.902Z'
+}
+{
+  message: 'Deleting Post with id: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:24:57.902Z'
+}
+{
+  message: 'Post deleted successfully with data: null',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:24:57.951Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:26:09.175Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:26:17.297Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:03.604Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:05.330Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:09.110Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:21.160Z'
+}
+{
+  message: 'Deleting post in controller: 67b389ac902d7ab5614db04c23554',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:21.161Z'
+}
+{
+  message: 'Deleting post with id in service: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:21.161Z'
+}
+{
+  message: 'Deleting Post with id: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:21.162Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:21.218Z'
+}
+{
+  message: 'Post deleted successfully with data: null',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:21.220Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:22.417Z'
+}
+{
+  message: 'Deleting post in controller: 67b389ac902d7ab5614db04c23554',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:22.418Z'
+}
+{
+  message: 'Deleting post with id in service: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:22.419Z'
+}
+{
+  message: 'Deleting Post with id: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:22.419Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:22.470Z'
+}
+{
+  message: 'Post deleted successfully with data: null',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:22.471Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:23.351Z'
+}
+{
+  message: 'Deleting post in controller: 67b389ac902d7ab5614db04c23554',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:23.351Z'
+}
+{
+  message: 'Deleting post with id in service: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:23.351Z'
+}
+{
+  message: 'Deleting Post with id: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:23.351Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:23.402Z'
+}
+{
+  message: 'Post deleted successfully with data: null',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:23.402Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:27.038Z'
+}
+{
+  message: 'Deleting post in controller: 67b389ac902d7ab5614db04c23554455',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:27.039Z'
+}
+{
+  message: 'Deleting post with id in service: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:27.039Z'
+}
+{
+  message: 'Deleting Post with id: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:27.039Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:27.090Z'
+}
+{
+  message: 'Post deleted successfully with data: null',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:27.090Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:28.229Z'
+}
+{
+  message: 'Deleting post in controller: 67b389ac902d7ab5614db04c23554455',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:28.230Z'
+}
+{
+  message: 'Deleting post with id in service: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:28.230Z'
+}
+{
+  message: 'Deleting Post with id: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:28.230Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:28.284Z'
+}
+{
+  message: 'Post deleted successfully with data: null',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:28.284Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:35.621Z'
+}
+{
+  message: 'Deleting post in controller: 67b389ac902d7ab5614db04c23554455',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:35.622Z'
+}
+{
+  message: 'Deleting post with id in service: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:35.622Z'
+}
+{
+  message: 'Deleting Post with id: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:35.622Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:35.678Z'
+}
+{
+  message: 'Post deleted successfully with data: null',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:35.678Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:40.126Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:42.669Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:45.192Z'
+}
+{
+  message: 'Deleting post in controller: 67b389ac902d7ab5614db04c23554455',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:45.193Z'
+}
+{
+  message: 'Deleting post with id in service: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:45.193Z'
+}
+{
+  message: 'Deleting Post with id: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:45.194Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:45.250Z'
+}
+{
+  message: 'Post deleted successfully with data: null',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:45.251Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:46.480Z'
+}
+{
+  message: 'Deleting post in controller: 67b389ac902d7ab5614db04c23554455',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:46.481Z'
+}
+{
+  message: 'Deleting post with id in service: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:46.482Z'
+}
+{
+  message: 'Deleting Post with id: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:46.482Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:46.524Z'
+}
+{
+  message: 'Post deleted successfully with data: null',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:46.525Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:47.723Z'
+}
+{
+  message: 'Deleting post in controller: 67b389ac902d7ab5614db04c23554455',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:47.724Z'
+}
+{
+  message: 'Deleting post with id in service: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:47.724Z'
+}
+{
+  message: 'Deleting Post with id: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:47.724Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:47.767Z'
+}
+{
+  message: 'Post deleted successfully with data: null',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:47.768Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:02.370Z'
+}
+{
+  message: 'Deleting post in controller: 67b389ac902d7ab5614db04c2355445545',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:02.370Z'
+}
+{
+  message: 'Deleting post with id in service: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:02.371Z'
+}
+{
+  message: 'Deleting Post with id: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:02.371Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:02.423Z'
+}
+{
+  message: 'Post deleted successfully with data: null',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:02.423Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:24.929Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:28.080Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:31.037Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:34.376Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:35.744Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:38.086Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:40.341Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:43.662Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:46.017Z'
+}
+{
+  message: 'Deleting post in controller: 67b389ac902d7ab5614db04c2355445545',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:46.018Z'
+}
+{
+  message: 'Deleting post with id in service: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:46.019Z'
+}
+{
+  message: 'Deleting Post with id: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:46.019Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:46.069Z'
+}
+{
+  message: 'Error deleting post in service: Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:46.069Z'
+}
+{
+  message: 'Error deleting post in controller: Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:46.069Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:29:13.150Z'
+}
+{
+  message: 'Deleting post in controller: 67b388bd420ead51d1d2529f',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:29:13.151Z'
+}
+{
+  message: 'Deleting post with id in service: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:29:13.151Z'
+}
+{
+  message: 'Deleting Post with id: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:29:13.152Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:29:13.195Z'
+}
+{
+  message: 'Error deleting post in service: Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:29:13.196Z'
+}
+{
+  message: 'Error deleting post in controller: Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:29:13.196Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:29:19.114Z'
+}
+{
+  message: 'Deleting post in controller: 67b388bd420ead51d1d2529f',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:29:19.114Z'
+}
+{
+  message: 'Deleting post with id in service: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:29:19.114Z'
+}
+{
+  message: 'Deleting Post with id: undefined',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:29:19.114Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:29:19.154Z'
+}
+{
+  message: 'Error deleting post in service: Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:29:19.154Z'
+}
+{
+  message: 'Error deleting post in controller: Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:29:19.154Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:08.354Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:11.300Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:15.132Z'
+}
+{
+  message: 'Deleting post in controller: 67b388bd420ead51d1d2529f1',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:15.133Z'
+}
+{
+  message: 'Deleting post with id in service: 67b388bd420ead51d1d2529f1',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:15.133Z'
+}
+{
+  message: 'Deleting Post with id: 67b388bd420ead51d1d2529f1',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:15.133Z'
+}
+{
+  message: 'Error deleting post in service: Cast to ObjectId failed for value "67b388bd420ead51d1d2529f1" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:15.139Z'
+}
+{
+  message: 'Error deleting post in controller: Cast to ObjectId failed for value "67b388bd420ead51d1d2529f1" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:15.139Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:21.518Z'
+}
+{
+  message: 'Deleting post in controller: 67b388bd420ead51d1d2529f',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:21.518Z'
+}
+{
+  message: 'Deleting post with id in service: 67b388bd420ead51d1d2529f',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:21.519Z'
+}
+{
+  message: 'Deleting Post with id: 67b388bd420ead51d1d2529f',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:21.519Z'
+}
+{
+  message: 'Post deleted successfully with data: {"_id":"67b388bd420ead51d1d2529f","user":"67b162792ece6e5704acebd9","content":"Hi","mediaIds":[],"createdAt":"2025-02-17T19:06:37.087Z","updatedAt":"2025-02-17T19:06:37.087Z","__v":0}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:21.635Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:27.190Z'
+}
+{
+  message: 'Deleting post in controller: 67b388bd420ead51d1d2529f4',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:27.191Z'
+}
+{
+  message: 'Deleting post with id in service: 67b388bd420ead51d1d2529f4',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:27.191Z'
+}
+{
+  message: 'Deleting Post with id: 67b388bd420ead51d1d2529f4',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:27.192Z'
+}
+{
+  message: 'Error deleting post in service: Cast to ObjectId failed for value "67b388bd420ead51d1d2529f4" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:27.193Z'
+}
+{
+  message: 'Error deleting post in controller: Cast to ObjectId failed for value "67b388bd420ead51d1d2529f4" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:27.193Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:46.424Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:49.400Z'
+}
+{
+  message: 'Deleting post in controller: 67b388bd420ead51d1d2529f4',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:49.401Z'
+}
+{
+  message: 'Deleting post with id in service: 67b388bd420ead51d1d2529f4',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:49.402Z'
+}
+{
+  message: 'Deleting Post with id: 67b388bd420ead51d1d2529f4',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:49.402Z'
+}
+{
+  message: 'Error deleting post in service: Cast to ObjectId failed for value "67b388bd420ead51d1d2529f4" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:49.407Z'
+}
+{
+  message: 'Error deleting post in controller: Cast to ObjectId failed for value "67b388bd420ead51d1d2529f4" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:49.408Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:50.424Z'
+}
+{
+  message: 'Deleting post in controller: 67b388bd420ead51d1d2529f4',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:50.424Z'
+}
+{
+  message: 'Deleting post with id in service: 67b388bd420ead51d1d2529f4',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:50.425Z'
+}
+{
+  message: 'Deleting Post with id: 67b388bd420ead51d1d2529f4',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:50.425Z'
+}
+{
+  message: 'Error deleting post in service: Cast to ObjectId failed for value "67b388bd420ead51d1d2529f4" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:50.426Z'
+}
+{
+  message: 'Error deleting post in controller: Cast to ObjectId failed for value "67b388bd420ead51d1d2529f4" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:50.426Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:31:04.799Z'
+}
+{
+  message: 'Deleting post in controller: 67b389ac902d7ab5614db04c11',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:31:04.799Z'
+}
+{
+  message: 'Deleting post with id in service: 67b389ac902d7ab5614db04c11',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:31:04.799Z'
+}
+{
+  message: 'Deleting Post with id: 67b389ac902d7ab5614db04c11',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:31:04.800Z'
+}
+{
+  message: 'Error deleting post in service: Cast to ObjectId failed for value "67b389ac902d7ab5614db04c11" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:31:04.800Z'
+}
+{
+  message: 'Error deleting post in controller: Cast to ObjectId failed for value "67b389ac902d7ab5614db04c11" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:31:04.801Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:31:06.129Z'
+}
+{
+  message: 'Deleting post in controller: 67b389ac902d7ab5614db04c11',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:31:06.129Z'
+}
+{
+  message: 'Deleting post with id in service: 67b389ac902d7ab5614db04c11',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:31:06.130Z'
+}
+{
+  message: 'Deleting Post with id: 67b389ac902d7ab5614db04c11',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:31:06.130Z'
+}
+{
+  message: 'Error deleting post in service: Cast to ObjectId failed for value "67b389ac902d7ab5614db04c11" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:31:06.130Z'
+}
+{
+  message: 'Error deleting post in controller: Cast to ObjectId failed for value "67b389ac902d7ab5614db04c11" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:31:06.131Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:31:10.044Z'
+}
+{
+  message: 'Deleting post in controller: 67b389ac902d7ab5614db04c',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:31:10.044Z'
+}
+{
+  message: 'Deleting post with id in service: 67b389ac902d7ab5614db04c',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:31:10.044Z'
+}
+{
+  message: 'Deleting Post with id: 67b389ac902d7ab5614db04c',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:31:10.045Z'
+}
+{
+  message: 'Post deleted successfully with data: {"_id":"67b389ac902d7ab5614db04c","user":"67b162792ece6e5704acebd9","content":"Hi","mediaIds":[],"createdAt":"2025-02-17T19:10:36.234Z","updatedAt":"2025-02-17T19:10:36.234Z","__v":0}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:31:10.097Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:44:04.030Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:00:56.811Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:00:58.454Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:02:45.529Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:05:25.704Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:06:05.550Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:06:12.125Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:06:25.720Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:06:47.617Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:06:50.756Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:06:57.149Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:06:59.818Z'
+}
+{
+  message: 'Unauthorized request',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:06:59.819Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:07:01.317Z'
+}
+{
+  message: 'Unauthorized request',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:07:01.318Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:07:24.221Z'
+}
+{
+  message: 'Unauthorized request',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:07:24.222Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:07:54.264Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:08:02.996Z'
+}
+{
+  message: 'Creating post with data in controller: "Hello"',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:08:02.997Z'
+}
+{
+  message: 'Creating post with data in service: Hello',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:08:02.997Z'
+}
+{
+  message: 'Creating Post with data: {"user":"67b162792ece6e5704acebd9","content":"Hello"}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:08:02.998Z'
+}
+{
+  message: 'Post created successfully with data: {"user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"_id":"67b4a2539f564224c504b605","createdAt":"2025-02-18T15:08:03.005Z","updatedAt":"2025-02-18T15:08:03.005Z","__v":0}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:08:03.059Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:08:28.717Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:08:29.771Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:08:39.925Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:08:48.964Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:08:52.299Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:09:07.995Z'
+}
+{
+  message: 'Creating post with data in controller: "Hello"',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:09:07.998Z'
+}
+{
+  message: 'Creating post with data in service: Hello',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:09:07.999Z'
+}
+{
+  message: 'Creating Post with data: {"user":"67b162792ece6e5704acebd9","content":"Hello"}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:09:08.000Z'
+}
+{
+  message: 'Post created successfully with data: {"user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"_id":"67b4a294154c9eefbafe73eb","createdAt":"2025-02-18T15:09:08.003Z","updatedAt":"2025-02-18T15:09:08.003Z","__v":0}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:09:08.055Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:09:56.267Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:10:02.181Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:10:06.266Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:10:11.577Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:10:37.034Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:10:40.819Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:10:56.991Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:10:59.403Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:11:41.513Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:11:47.225Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:11:49.583Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:11:52.857Z'
+}
+{
+  message: 'Creating post with data in controller: "Hello"',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:11:52.862Z'
+}
+{
+  message: 'Creating post with data in service: Hello',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:11:52.862Z'
+}
+{
+  message: 'Creating Post with data: {"user":"67b162792ece6e5704acebd9","content":"Hello"}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:11:52.863Z'
+}
+{
+  message: 'Post created successfully with data: {"user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"_id":"67b4a338220d356997c2e568","createdAt":"2025-02-18T15:11:52.868Z","updatedAt":"2025-02-18T15:11:52.868Z","__v":0}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:11:52.922Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:11:54.318Z'
+}
+{
+  message: 'Creating post with data in controller: "Hello"',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:11:54.319Z'
+}
+{
+  message: 'Creating post with data in service: Hello',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:11:54.319Z'
+}
+{
+  message: 'Creating Post with data: {"user":"67b162792ece6e5704acebd9","content":"Hello"}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:11:54.320Z'
+}
+{
+  message: 'Post created successfully with data: {"user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"_id":"67b4a33a220d356997c2e56a","createdAt":"2025-02-18T15:11:54.321Z","updatedAt":"2025-02-18T15:11:54.321Z","__v":0}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:11:54.367Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:12:15.922Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:12:43.867Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:12:48.393Z'
+}
+{
+  message: 'Creating post with data in controller: "Hello"',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:12:48.398Z'
+}
+{
+  message: 'Creating post with data in service: Hello',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:12:48.398Z'
+}
+{
+  message: 'Creating Post with data: {"user":"67b162792ece6e5704acebd9","content":"Hello"}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:12:48.399Z'
+}
+{
+  message: 'Post created successfully with data: {"user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"_id":"67b4a370f5b134f319b22995","createdAt":"2025-02-18T15:12:48.403Z","updatedAt":"2025-02-18T15:12:48.403Z","__v":0}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:12:48.455Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:12:49.618Z'
+}
+{
+  message: 'Creating post with data in controller: "Hello"',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:12:49.619Z'
+}
+{
+  message: 'Creating post with data in service: Hello',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:12:49.619Z'
+}
+{
+  message: 'Creating Post with data: {"user":"67b162792ece6e5704acebd9","content":"Hello"}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:12:49.621Z'
+}
+{
+  message: 'Post created successfully with data: {"user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"_id":"67b4a371f5b134f319b22997","createdAt":"2025-02-18T15:12:49.623Z","updatedAt":"2025-02-18T15:12:49.623Z","__v":0}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:12:49.666Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:13:08.309Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:13:12.877Z'
+}
+{
+  message: 'Creating post with data in controller: "Hello"',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:13:12.882Z'
+}
+{
+  message: 'Creating post with data in service: Hello',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:13:12.882Z'
+}
+{
+  message: 'Creating Post with data: {"user":"67b162792ece6e5704acebd9","content":"Hello"}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:13:12.883Z'
+}
+{
+  message: 'Post created successfully with data: {"user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"_id":"67b4a3880e582ec96dc1665a","createdAt":"2025-02-18T15:13:12.888Z","updatedAt":"2025-02-18T15:13:12.888Z","__v":0}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:13:12.937Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:13:13.897Z'
+}
+{
+  message: 'Creating post with data in controller: "Hello"',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:13:13.899Z'
+}
+{
+  message: 'Creating post with data in service: Hello',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:13:13.899Z'
+}
+{
+  message: 'Creating Post with data: {"user":"67b162792ece6e5704acebd9","content":"Hello"}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:13:13.900Z'
+}
+{
+  message: 'Post created successfully with data: {"user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"_id":"67b4a3890e582ec96dc1665c","createdAt":"2025-02-18T15:13:13.900Z","updatedAt":"2025-02-18T15:13:13.900Z","__v":0}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:13:13.943Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:13:23.107Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:13:30.723Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:13:32.751Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:13:36.785Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:13:40.288Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:13:52.926Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:15:14.179Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:15:17.946Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:15:19.015Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:15:23.428Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:15:25.891Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:15:26.094Z'
+}
+{
+  message: 'Creating post with data in controller: "Hello"',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:15:26.099Z'
+}
+{
+  message: 'Creating post with data in service: Hello',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:15:26.099Z'
+}
+{
+  message: 'Creating Post with data: {"user":"67b162792ece6e5704acebd9","content":"Hello"}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:15:26.100Z'
+}
+{
+  message: 'Post created successfully with data: {"user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"_id":"67b4a40eca3c9c4233739b18","createdAt":"2025-02-18T15:15:26.105Z","updatedAt":"2025-02-18T15:15:26.105Z","__v":0}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:15:26.473Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:15:39.270Z'
+}
+{
+  message: 'Getting all posts in controller',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:15:39.270Z'
+}
+{
+  message: 'Getting all posts in service',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:15:39.271Z'
+}
+{
+  message: 'Finding all Post',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:15:39.272Z'
+}
+{
+  message: 'Posts fetched successfully with data: {"total":9,"data":[{"_id":"67b4a40eca3c9c4233739b18","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:15:26.105Z","updatedAt":"2025-02-18T15:15:26.105Z","__v":0},{"_id":"67b4a3890e582ec96dc1665c","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:13:13.900Z","updatedAt":"2025-02-18T15:13:13.900Z","__v":0},{"_id":"67b4a3880e582ec96dc1665a","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:13:12.888Z","updatedAt":"2025-02-18T15:13:12.888Z","__v":0},{"_id":"67b4a371f5b134f319b22997","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:12:49.623Z","updatedAt":"2025-02-18T15:12:49.623Z","__v":0},{"_id":"67b4a370f5b134f319b22995","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:12:48.403Z","updatedAt":"2025-02-18T15:12:48.403Z","__v":0},{"_id":"67b4a33a220d356997c2e56a","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:11:54.321Z","updatedAt":"2025-02-18T15:11:54.321Z","__v":0},{"_id":"67b4a338220d356997c2e568","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:11:52.868Z","updatedAt":"2025-02-18T15:11:52.868Z","__v":0},{"_id":"67b4a294154c9eefbafe73eb","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:09:08.003Z","updatedAt":"2025-02-18T15:09:08.003Z","__v":0},{"_id":"67b4a2539f564224c504b605","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:08:03.005Z","updatedAt":"2025-02-18T15:08:03.005Z","__v":0}],"currentPage":1,"totalPages":1,"limit":10}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:15:39.375Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:17:07.963Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:17:14.323Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:27:12.038Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:27:13.898Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:27:15.665Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:27:17.356Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:27:35.928Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:27:44.108Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:27:49.031Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:13.427Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:14.634Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:18.628Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:20.302Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:43.698Z'
+}
+{
+  message: 'Getting all posts in controller',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:43.699Z'
+}
+{
+  message: 'Getting all posts in service',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:43.700Z'
+}
+{
+  message: 'No cached posts found for page 1 with limit 10',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:43.701Z'
+}
+{
+  message: 'Finding all Post',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:43.701Z'
+}
+{
+  message: 'Posts fetched successfully with data: {"total":9,"data":[{"_id":"67b4a40eca3c9c4233739b18","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:15:26.105Z","updatedAt":"2025-02-18T15:15:26.105Z","__v":0},{"_id":"67b4a3890e582ec96dc1665c","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:13:13.900Z","updatedAt":"2025-02-18T15:13:13.900Z","__v":0},{"_id":"67b4a3880e582ec96dc1665a","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:13:12.888Z","updatedAt":"2025-02-18T15:13:12.888Z","__v":0},{"_id":"67b4a371f5b134f319b22997","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:12:49.623Z","updatedAt":"2025-02-18T15:12:49.623Z","__v":0},{"_id":"67b4a370f5b134f319b22995","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:12:48.403Z","updatedAt":"2025-02-18T15:12:48.403Z","__v":0},{"_id":"67b4a33a220d356997c2e56a","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:11:54.321Z","updatedAt":"2025-02-18T15:11:54.321Z","__v":0},{"_id":"67b4a338220d356997c2e568","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:11:52.868Z","updatedAt":"2025-02-18T15:11:52.868Z","__v":0},{"_id":"67b4a294154c9eefbafe73eb","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:09:08.003Z","updatedAt":"2025-02-18T15:09:08.003Z","__v":0},{"_id":"67b4a2539f564224c504b605","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:08:03.005Z","updatedAt":"2025-02-18T15:08:03.005Z","__v":0}],"currentPage":1,"totalPages":1,"limit":10}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:43.799Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:50.361Z'
+}
+{
+  message: 'Getting all posts in controller',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:50.362Z'
+}
+{
+  message: 'Getting all posts in service',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:50.362Z'
+}
+{
+  message: 'Returning cached posts for page 1 with limit 10',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:50.363Z'
+}
+{
+  message: 'Posts fetched successfully with data: {"total":9,"data":[{"_id":"67b4a40eca3c9c4233739b18","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:15:26.105Z","updatedAt":"2025-02-18T15:15:26.105Z","__v":0},{"_id":"67b4a3890e582ec96dc1665c","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:13:13.900Z","updatedAt":"2025-02-18T15:13:13.900Z","__v":0},{"_id":"67b4a3880e582ec96dc1665a","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:13:12.888Z","updatedAt":"2025-02-18T15:13:12.888Z","__v":0},{"_id":"67b4a371f5b134f319b22997","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:12:49.623Z","updatedAt":"2025-02-18T15:12:49.623Z","__v":0},{"_id":"67b4a370f5b134f319b22995","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:12:48.403Z","updatedAt":"2025-02-18T15:12:48.403Z","__v":0},{"_id":"67b4a33a220d356997c2e56a","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:11:54.321Z","updatedAt":"2025-02-18T15:11:54.321Z","__v":0},{"_id":"67b4a338220d356997c2e568","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:11:52.868Z","updatedAt":"2025-02-18T15:11:52.868Z","__v":0},{"_id":"67b4a294154c9eefbafe73eb","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:09:08.003Z","updatedAt":"2025-02-18T15:09:08.003Z","__v":0},{"_id":"67b4a2539f564224c504b605","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:08:03.005Z","updatedAt":"2025-02-18T15:08:03.005Z","__v":0}],"currentPage":1,"totalPages":1,"limit":10}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:50.363Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:51.533Z'
+}
+{
+  message: 'Getting all posts in controller',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:51.533Z'
+}
+{
+  message: 'Getting all posts in service',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:51.534Z'
+}
+{
+  message: 'Returning cached posts for page 1 with limit 10',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:51.534Z'
+}
+{
+  message: 'Posts fetched successfully with data: {"total":9,"data":[{"_id":"67b4a40eca3c9c4233739b18","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:15:26.105Z","updatedAt":"2025-02-18T15:15:26.105Z","__v":0},{"_id":"67b4a3890e582ec96dc1665c","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:13:13.900Z","updatedAt":"2025-02-18T15:13:13.900Z","__v":0},{"_id":"67b4a3880e582ec96dc1665a","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:13:12.888Z","updatedAt":"2025-02-18T15:13:12.888Z","__v":0},{"_id":"67b4a371f5b134f319b22997","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:12:49.623Z","updatedAt":"2025-02-18T15:12:49.623Z","__v":0},{"_id":"67b4a370f5b134f319b22995","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:12:48.403Z","updatedAt":"2025-02-18T15:12:48.403Z","__v":0},{"_id":"67b4a33a220d356997c2e56a","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:11:54.321Z","updatedAt":"2025-02-18T15:11:54.321Z","__v":0},{"_id":"67b4a338220d356997c2e568","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:11:52.868Z","updatedAt":"2025-02-18T15:11:52.868Z","__v":0},{"_id":"67b4a294154c9eefbafe73eb","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:09:08.003Z","updatedAt":"2025-02-18T15:09:08.003Z","__v":0},{"_id":"67b4a2539f564224c504b605","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:08:03.005Z","updatedAt":"2025-02-18T15:08:03.005Z","__v":0}],"currentPage":1,"totalPages":1,"limit":10}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:51.534Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:52.897Z'
+}
+{
+  message: 'Getting all posts in controller',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:52.898Z'
+}
+{
+  message: 'Getting all posts in service',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:52.898Z'
+}
+{
+  message: 'Returning cached posts for page 1 with limit 10',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:52.898Z'
+}
+{
+  message: 'Posts fetched successfully with data: {"total":9,"data":[{"_id":"67b4a40eca3c9c4233739b18","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:15:26.105Z","updatedAt":"2025-02-18T15:15:26.105Z","__v":0},{"_id":"67b4a3890e582ec96dc1665c","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:13:13.900Z","updatedAt":"2025-02-18T15:13:13.900Z","__v":0},{"_id":"67b4a3880e582ec96dc1665a","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:13:12.888Z","updatedAt":"2025-02-18T15:13:12.888Z","__v":0},{"_id":"67b4a371f5b134f319b22997","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:12:49.623Z","updatedAt":"2025-02-18T15:12:49.623Z","__v":0},{"_id":"67b4a370f5b134f319b22995","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:12:48.403Z","updatedAt":"2025-02-18T15:12:48.403Z","__v":0},{"_id":"67b4a33a220d356997c2e56a","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:11:54.321Z","updatedAt":"2025-02-18T15:11:54.321Z","__v":0},{"_id":"67b4a338220d356997c2e568","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:11:52.868Z","updatedAt":"2025-02-18T15:11:52.868Z","__v":0},{"_id":"67b4a294154c9eefbafe73eb","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:09:08.003Z","updatedAt":"2025-02-18T15:09:08.003Z","__v":0},{"_id":"67b4a2539f564224c504b605","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:08:03.005Z","updatedAt":"2025-02-18T15:08:03.005Z","__v":0}],"currentPage":1,"totalPages":1,"limit":10}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:52.899Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:53.856Z'
+}
+{
+  message: 'Getting all posts in controller',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:53.857Z'
+}
+{
+  message: 'Getting all posts in service',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:53.857Z'
+}
+{
+  message: 'Returning cached posts for page 1 with limit 10',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:53.858Z'
+}
+{
+  message: 'Posts fetched successfully with data: {"total":9,"data":[{"_id":"67b4a40eca3c9c4233739b18","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:15:26.105Z","updatedAt":"2025-02-18T15:15:26.105Z","__v":0},{"_id":"67b4a3890e582ec96dc1665c","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:13:13.900Z","updatedAt":"2025-02-18T15:13:13.900Z","__v":0},{"_id":"67b4a3880e582ec96dc1665a","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:13:12.888Z","updatedAt":"2025-02-18T15:13:12.888Z","__v":0},{"_id":"67b4a371f5b134f319b22997","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:12:49.623Z","updatedAt":"2025-02-18T15:12:49.623Z","__v":0},{"_id":"67b4a370f5b134f319b22995","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:12:48.403Z","updatedAt":"2025-02-18T15:12:48.403Z","__v":0},{"_id":"67b4a33a220d356997c2e56a","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:11:54.321Z","updatedAt":"2025-02-18T15:11:54.321Z","__v":0},{"_id":"67b4a338220d356997c2e568","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:11:52.868Z","updatedAt":"2025-02-18T15:11:52.868Z","__v":0},{"_id":"67b4a294154c9eefbafe73eb","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:09:08.003Z","updatedAt":"2025-02-18T15:09:08.003Z","__v":0},{"_id":"67b4a2539f564224c504b605","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:08:03.005Z","updatedAt":"2025-02-18T15:08:03.005Z","__v":0}],"currentPage":1,"totalPages":1,"limit":10}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:53.859Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:54.763Z'
+}
+{
+  message: 'Getting all posts in controller',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:54.763Z'
+}
+{
+  message: 'Getting all posts in service',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:54.764Z'
+}
+{
+  message: 'Returning cached posts for page 1 with limit 10',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:54.764Z'
+}
+{
+  message: 'Posts fetched successfully with data: {"total":9,"data":[{"_id":"67b4a40eca3c9c4233739b18","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:15:26.105Z","updatedAt":"2025-02-18T15:15:26.105Z","__v":0},{"_id":"67b4a3890e582ec96dc1665c","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:13:13.900Z","updatedAt":"2025-02-18T15:13:13.900Z","__v":0},{"_id":"67b4a3880e582ec96dc1665a","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:13:12.888Z","updatedAt":"2025-02-18T15:13:12.888Z","__v":0},{"_id":"67b4a371f5b134f319b22997","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:12:49.623Z","updatedAt":"2025-02-18T15:12:49.623Z","__v":0},{"_id":"67b4a370f5b134f319b22995","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:12:48.403Z","updatedAt":"2025-02-18T15:12:48.403Z","__v":0},{"_id":"67b4a33a220d356997c2e56a","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:11:54.321Z","updatedAt":"2025-02-18T15:11:54.321Z","__v":0},{"_id":"67b4a338220d356997c2e568","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:11:52.868Z","updatedAt":"2025-02-18T15:11:52.868Z","__v":0},{"_id":"67b4a294154c9eefbafe73eb","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:09:08.003Z","updatedAt":"2025-02-18T15:09:08.003Z","__v":0},{"_id":"67b4a2539f564224c504b605","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:08:03.005Z","updatedAt":"2025-02-18T15:08:03.005Z","__v":0}],"currentPage":1,"totalPages":1,"limit":10}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:54.764Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:55.503Z'
+}
+{
+  message: 'Getting all posts in controller',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:55.503Z'
+}
+{
+  message: 'Getting all posts in service',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:55.503Z'
+}
+{
+  message: 'Returning cached posts for page 1 with limit 10',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:55.503Z'
+}
+{
+  message: 'Posts fetched successfully with data: {"total":9,"data":[{"_id":"67b4a40eca3c9c4233739b18","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:15:26.105Z","updatedAt":"2025-02-18T15:15:26.105Z","__v":0},{"_id":"67b4a3890e582ec96dc1665c","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:13:13.900Z","updatedAt":"2025-02-18T15:13:13.900Z","__v":0},{"_id":"67b4a3880e582ec96dc1665a","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:13:12.888Z","updatedAt":"2025-02-18T15:13:12.888Z","__v":0},{"_id":"67b4a371f5b134f319b22997","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:12:49.623Z","updatedAt":"2025-02-18T15:12:49.623Z","__v":0},{"_id":"67b4a370f5b134f319b22995","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:12:48.403Z","updatedAt":"2025-02-18T15:12:48.403Z","__v":0},{"_id":"67b4a33a220d356997c2e56a","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:11:54.321Z","updatedAt":"2025-02-18T15:11:54.321Z","__v":0},{"_id":"67b4a338220d356997c2e568","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:11:52.868Z","updatedAt":"2025-02-18T15:11:52.868Z","__v":0},{"_id":"67b4a294154c9eefbafe73eb","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:09:08.003Z","updatedAt":"2025-02-18T15:09:08.003Z","__v":0},{"_id":"67b4a2539f564224c504b605","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:08:03.005Z","updatedAt":"2025-02-18T15:08:03.005Z","__v":0}],"currentPage":1,"totalPages":1,"limit":10}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:55.504Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:56.186Z'
+}
+{
+  message: 'Getting all posts in controller',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:56.186Z'
+}
+{
+  message: 'Getting all posts in service',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:56.186Z'
+}
+{
+  message: 'Returning cached posts for page 1 with limit 10',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:56.186Z'
+}
+{
+  message: 'Posts fetched successfully with data: {"total":9,"data":[{"_id":"67b4a40eca3c9c4233739b18","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:15:26.105Z","updatedAt":"2025-02-18T15:15:26.105Z","__v":0},{"_id":"67b4a3890e582ec96dc1665c","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:13:13.900Z","updatedAt":"2025-02-18T15:13:13.900Z","__v":0},{"_id":"67b4a3880e582ec96dc1665a","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:13:12.888Z","updatedAt":"2025-02-18T15:13:12.888Z","__v":0},{"_id":"67b4a371f5b134f319b22997","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:12:49.623Z","updatedAt":"2025-02-18T15:12:49.623Z","__v":0},{"_id":"67b4a370f5b134f319b22995","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:12:48.403Z","updatedAt":"2025-02-18T15:12:48.403Z","__v":0},{"_id":"67b4a33a220d356997c2e56a","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:11:54.321Z","updatedAt":"2025-02-18T15:11:54.321Z","__v":0},{"_id":"67b4a338220d356997c2e568","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:11:52.868Z","updatedAt":"2025-02-18T15:11:52.868Z","__v":0},{"_id":"67b4a294154c9eefbafe73eb","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:09:08.003Z","updatedAt":"2025-02-18T15:09:08.003Z","__v":0},{"_id":"67b4a2539f564224c504b605","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":[],"createdAt":"2025-02-18T15:08:03.005Z","updatedAt":"2025-02-18T15:08:03.005Z","__v":0}],"currentPage":1,"totalPages":1,"limit":10}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:28:56.187Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:31:41.270Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:31:45.537Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:32:26.307Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:32:27.556Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:32:33.521Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:32:39.043Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:32:42.117Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:32:53.209Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:32:57.208Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:33:07.646Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:33:12.112Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:33:14.996Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:33:44.186Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:33:52.837Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:33:54.382Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:34:32.113Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:34:35.017Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:34:47.499Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:34:51.073Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:35:00.857Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:35:08.630Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:35:12.947Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:35:15.102Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:35:18.685Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:35:23.443Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:35:33.541Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:35:37.817Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:35:40.860Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:35:42.710Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:35:54.471Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:59:45.828Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:59:48.097Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:59:51.076Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:59:53.216Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:59:54.683Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:59:56.932Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:59:58.357Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:00:07.960Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:00:12.152Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:00:17.141Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:00:24.934Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:00:27.078Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:00:31.904Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:00:33.224Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:00:35.273Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:00:37.108Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:00:42.757Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:00:57.164Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:00:58.552Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:01:04.411Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:01:08.369Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:01:12.157Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:01:16.939Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:01:27.253Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:01:28.847Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:01:39.822Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:02:05.065Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:02:07.788Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:02:48.807Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:02:50.710Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:03:07.418Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:03:14.002Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:03:21.360Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:03:26.732Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:03:28.849Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:03:33.143Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:04:07.881Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:04:09.316Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:04:12.792Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:04:13.838Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:04:45.889Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:05:02.588Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:05:39.001Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:05:44.886Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:05:51.086Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:05:54.078Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:05:57.573Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:06:03.410Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:06:04.794Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:06:09.603Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:06:13.646Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:06:47.035Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:06:50.629Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:07:08.976Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:07:10.923Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:07:12.682Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:07:45.967Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:07:49.911Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:08:43.455Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:08:53.942Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:10:16.751Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:10:39.478Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-18T16:10:42.499Z'
+}

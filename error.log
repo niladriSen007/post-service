@@ -1,0 +1,228 @@
+{
+  message: 'Unauthorized request',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:09:22.618Z'
+}
+{
+  message: 'Unauthorized request',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:09:24.197Z'
+}
+{
+  message: 'Unauthorized request',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:09:37.695Z'
+}
+{
+  message: 'Unauthorized request',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:09:44.225Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:21.218Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:22.470Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:23.402Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:27.090Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:28.284Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:35.678Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:45.250Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:46.524Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:27:47.767Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:02.423Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:46.069Z'
+}
+{
+  message: 'Error deleting post in service: Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:46.069Z'
+}
+{
+  message: 'Error deleting post in controller: Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:28:46.069Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:29:13.195Z'
+}
+{
+  message: 'Error deleting post in service: Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:29:13.196Z'
+}
+{
+  message: 'Error deleting post in controller: Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:29:13.196Z'
+}
+{
+  message: 'Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:29:19.154Z'
+}
+{
+  message: 'Error deleting post in service: Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:29:19.154Z'
+}
+{
+  message: 'Error deleting post in controller: Post with id: undefined not found',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:29:19.154Z'
+}
+{
+  message: 'Error deleting post in service: Cast to ObjectId failed for value "67b388bd420ead51d1d2529f1" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:15.139Z'
+}
+{
+  message: 'Error deleting post in controller: Cast to ObjectId failed for value "67b388bd420ead51d1d2529f1" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:15.139Z'
+}
+{
+  message: 'Error deleting post in service: Cast to ObjectId failed for value "67b388bd420ead51d1d2529f4" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:27.193Z'
+}
+{
+  message: 'Error deleting post in controller: Cast to ObjectId failed for value "67b388bd420ead51d1d2529f4" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:27.193Z'
+}
+{
+  message: 'Error deleting post in service: Cast to ObjectId failed for value "67b388bd420ead51d1d2529f4" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:49.407Z'
+}
+{
+  message: 'Error deleting post in controller: Cast to ObjectId failed for value "67b388bd420ead51d1d2529f4" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:49.408Z'
+}
+{
+  message: 'Error deleting post in service: Cast to ObjectId failed for value "67b388bd420ead51d1d2529f4" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:50.426Z'
+}
+{
+  message: 'Error deleting post in controller: Cast to ObjectId failed for value "67b388bd420ead51d1d2529f4" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:30:50.426Z'
+}
+{
+  message: 'Error deleting post in service: Cast to ObjectId failed for value "67b389ac902d7ab5614db04c11" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:31:04.800Z'
+}
+{
+  message: 'Error deleting post in controller: Cast to ObjectId failed for value "67b389ac902d7ab5614db04c11" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:31:04.801Z'
+}
+{
+  message: 'Error deleting post in service: Cast to ObjectId failed for value "67b389ac902d7ab5614db04c11" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:31:06.130Z'
+}
+{
+  message: 'Error deleting post in controller: Cast to ObjectId failed for value "67b389ac902d7ab5614db04c11" (type string) at path "_id" for model "Post"',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-17T19:31:06.131Z'
+}
+{
+  message: 'Unauthorized request',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:06:59.819Z'
+}
+{
+  message: 'Unauthorized request',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:07:01.318Z'
+}
+{
+  message: 'Unauthorized request',
+  level: 'error',
+  service: 'identity-service',
+  timestamp: '2025-02-18T15:07:24.222Z'
+}
