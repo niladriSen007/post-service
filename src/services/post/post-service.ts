@@ -5,6 +5,7 @@ import { StatusCodes } from "http-status-codes";
 import { ValidateRequests } from "../validation/validation-service";
 import { CreatePostRequest } from "../../types";
 import { Request } from "express";
+import { services } from "..";
 const { logger } = config
 export class PostService {
   constructor(private readonly postRepository: PostRepository) { }
@@ -99,6 +100,11 @@ export class PostService {
       logger.info(`Deleting post with id in service: ${postId}`);
       const deletedPost = await this.postRepository.delete(postId, userId);
       if (deletedPost) {
+        await services.MessageBroker.publishEventToQueue("post.deleted", {
+          postId,
+          userId,
+          mediaIds : deletedPost?.mediaIds,
+        });
         await this.invalidateCache(req, postId);
       }
       return deletedPost;

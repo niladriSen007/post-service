@@ -13,6 +13,8 @@ import { RedisReply, RedisStore } from "rate-limit-redis"
 import Redis from 'ioredis';
 const { POST_SERVICE_SERVER_PORT, MONGO_URI, REDIS_URI } = serverConfig
 const { errorHandler } = middlewares;
+import { services } from './services';
+const { MessageBroker } = services
 
 const app = express();
 const redisClient = new Redis(REDIS_URI);
@@ -60,9 +62,26 @@ app.use("/api/v1/post", sensitiveRoutesLimiter)
 app.use("/api", apiRouter)
 app.use(errorHandler)
 
-app.listen(POST_SERVICE_SERVER_PORT, () => {
-  config.logger.info(`Server is running at http://localhost:${POST_SERVICE_SERVER_PORT}`);
-});
+async function startServer() {
+  try {
+    await MessageBroker.createConnectionRabbitMQ()
+    config.logger.info("RabbitMQ connection created successfully")
+    app.listen(POST_SERVICE_SERVER_PORT, () => {
+      config.logger.info(`Server is running at http://localhost:${POST_SERVICE_SERVER_PORT}`);
+    });
+    app.on('error', (error : any) => {
+      config.logger.error(`Server error: ${error.message}`);
+      process.exit(1);
+    }
+    );
+  } catch (error) {
+    config.logger.error(`Error starting server: ${error.message}`)
+    process.exit(1)
+  }
+}
+
+startServer();
+
 
 process.on('unhandledRejection', (reason, promise) => {
   config.logger.error('Unhandled Rejection at:', promise, 'reason:', reason);

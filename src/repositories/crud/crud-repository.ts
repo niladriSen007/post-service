@@ -3,6 +3,14 @@ import { config } from "../../config";
 import { CreatePostTypes } from "../../types";
 const { logger } = config;
 
+interface IPost extends Document {
+  mediaIds?: string[];
+  userId: string;
+  content: string;
+  createdAt: Date;
+  updatedAt: Date;
+}
+
 interface PaginatedResponse {
   total: number;
   data: Document[];
@@ -12,7 +20,7 @@ interface PaginatedResponse {
 }
 
 export abstract class CrudRepository {
-  constructor(private readonly model: Model<any>) { }
+  constructor(private readonly model: Model<IPost>) { }
 
   async create(data: CreatePostTypes): Promise<Document> {
     logger.info(`Creating ${this.model.modelName} with data: ${JSON.stringify(data)}`);
@@ -42,11 +50,11 @@ export abstract class CrudRepository {
     return this.model.findByIdAndUpdate(id, data, { new: true });
   }
 
-  async delete(id: string,userId : string): Promise<Document | null> {
+  async delete(id: string, userId: string): Promise<IPost | null> {
     logger.info(`Deleting ${this.model.modelName} with id: ${id}`);
     return this.model.findOneAndDelete({
       _id: id,
       user: userId
-    });
+    }) as Promise<IPost | null>;
   }
 }

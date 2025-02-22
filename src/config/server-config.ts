@@ -9,4 +9,5 @@ export const serverConfig = cleanEnv(process.env, {
   MONGO_URI: str({ default: 'mongodb+srv://senniladri007:0JF9VPjaianQuxw9@cluster0.eaodn.mongodb.net/' }),
   JWT_SECRET_KEY: str({ default: 'secret' }),
   REDIS_URI: str({ default: 'redis://localhost:6379' }),
+  RABBITMQ_URI: str({ default: 'amqp://localhost:5672' }),
 });
