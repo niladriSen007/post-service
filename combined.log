@@ -3784,3 +3784,633 @@
   service: 'identity-service',
   timestamp: '2025-02-22T17:14:56.967Z'
 }
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:14:19.366Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:14:19.368Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:14:19.370Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:14:20.518Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:14:20.520Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:14:20.522Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:16:20.396Z'
+}
+{
+  message: 'Creating post with data in controller: "Hello"',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:16:20.399Z'
+}
+{
+  message: 'Creating post with data in service: Hello',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:16:20.400Z'
+}
+{
+  message: 'Creating Post with data: {"user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":["67b9c3396694cc1916776557"]}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:16:20.400Z'
+}
+{
+  message: 'Post created successfully with data: {"user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":["67b9c3396694cc1916776557"],"_id":"67baa1142b43e9649c47b4a3","createdAt":"2025-02-23T04:16:20.404Z","updatedAt":"2025-02-23T04:16:20.404Z","__v":0}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:16:20.462Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:16:21.598Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:16:21.600Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:16:21.602Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:17:41.471Z'
+}
+{
+  message: 'Creating post with data in controller: "Hello"',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:17:41.474Z'
+}
+{
+  message: 'Creating post with data in service: Hello',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:17:41.475Z'
+}
+{
+  message: 'Creating Post with data: {"user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":["67b9c3396694cc1916776557","67b9c3396694cc1916776557"]}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:17:41.475Z'
+}
+{
+  message: 'Post created successfully with data: {"user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":["67b9c3396694cc1916776557","67b9c3396694cc1916776557"],"_id":"67baa165346e35fb93989142","createdAt":"2025-02-23T04:17:41.479Z","updatedAt":"2025-02-23T04:17:41.479Z","__v":0}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:17:41.530Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:18:14.848Z'
+}
+{
+  message: 'Deleting post in controller: 67baa165346e35fb93989142',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:18:14.849Z'
+}
+{
+  message: 'Deleting post with id in service: 67baa165346e35fb93989142',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:18:14.849Z'
+}
+{
+  message: 'Deleting Post with id: 67baa165346e35fb93989142',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:18:14.849Z'
+}
+{
+  message: 'Event published to RabbitMQ with routing key: post.deleted',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:18:14.895Z'
+}
+{
+  message: 'Post deleted successfully with data: {"_id":"67baa165346e35fb93989142","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":["67b9c3396694cc1916776557","67b9c3396694cc1916776557"],"createdAt":"2025-02-23T04:17:41.479Z","updatedAt":"2025-02-23T04:17:41.479Z","__v":0}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:18:14.896Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:19:05.044Z'
+}
+{
+  message: 'Creating post with data in controller: "Hello"',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:19:05.045Z'
+}
+{
+  message: 'Creating post with data in service: Hello',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:19:05.045Z'
+}
+{
+  message: 'Creating Post with data: {"user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":["67baa1480cba1a015d5c3228"]}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:19:05.045Z'
+}
+{
+  message: 'Post created successfully with data: {"user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":["67baa1480cba1a015d5c3228"],"_id":"67baa1b9346e35fb93989145","createdAt":"2025-02-23T04:19:05.046Z","updatedAt":"2025-02-23T04:19:05.046Z","__v":0}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:19:05.098Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:19:27.512Z'
+}
+{
+  message: 'Deleting post in controller: 67baa1b9346e35fb93989145',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:19:27.513Z'
+}
+{
+  message: 'Deleting post with id in service: 67baa1b9346e35fb93989145',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:19:27.513Z'
+}
+{
+  message: 'Deleting Post with id: 67baa1b9346e35fb93989145',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:19:27.513Z'
+}
+{
+  message: 'Event published to RabbitMQ with routing key: post.deleted',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:19:27.556Z'
+}
+{
+  message: 'Post deleted successfully with data: {"_id":"67baa1b9346e35fb93989145","user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":["67baa1480cba1a015d5c3228"],"createdAt":"2025-02-23T04:19:05.046Z","updatedAt":"2025-02-23T04:19:05.046Z","__v":0}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T04:19:27.557Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:09:02.436Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:09:02.439Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:09:02.442Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:09:43.978Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:09:43.980Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:09:43.982Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:09:46.729Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:09:46.731Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:09:46.732Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:09:53.065Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:09:53.067Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:09:53.069Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:10:14.847Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:10:14.850Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:10:14.853Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:10:17.138Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:10:17.140Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:10:17.142Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:10:22.287Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:10:22.289Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:10:22.291Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:10:29.006Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:10:29.008Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:10:29.010Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:10:36.313Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:10:36.317Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:10:36.319Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:10:40.992Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:10:40.994Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:10:40.996Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:11:19.919Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:11:19.922Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:11:19.923Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:11:40.995Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:11:40.998Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-23T05:11:40.999Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-27T17:52:52.881Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-27T17:52:52.883Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-27T17:52:52.885Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-27T17:52:54.078Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-27T17:52:54.080Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-27T17:52:54.082Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-27T17:52:55.197Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-27T17:52:55.199Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-27T17:52:55.201Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-27T18:01:21.005Z'
+}
+{
+  message: 'Creating post with data in controller: "Hello"',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-27T18:01:21.009Z'
+}
+{
+  message: 'Creating post with data in service: Hello',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-27T18:01:21.010Z'
+}
+{
+  message: 'Creating Post with data: {"user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":["67baa1480cba1a015d5c3228"]}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-27T18:01:21.011Z'
+}
+{
+  message: 'Event published to RabbitMQ with routing key: post.created',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-27T18:01:21.075Z'
+}
+{
+  message: 'Post created successfully with data: {"user":"67b162792ece6e5704acebd9","content":"Hello","mediaIds":["67baa1480cba1a015d5c3228"],"_id":"67c0a8710a8d3ee390a0f946","createdAt":"2025-02-27T18:01:21.015Z","updatedAt":"2025-02-27T18:01:21.015Z","__v":0}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-27T18:01:21.077Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-28T07:27:31.536Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-28T07:27:31.538Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-28T07:27:31.540Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-28T07:27:32.753Z'
+}
+{
+  message: 'RabbitMQ connection created successfully',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-28T07:27:32.755Z'
+}
+{
+  message: 'Server is running at http://localhost:6000',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-28T07:27:32.757Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-28T07:28:16.993Z'
+}
+{
+  message: 'Creating post with data in controller: "Hello search service"',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-28T07:28:16.999Z'
+}
+{
+  message: 'Creating post with data in service: Hello search service',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-28T07:28:17.000Z'
+}
+{
+  message: 'Creating Post with data: {"user":"67b162792ece6e5704acebd9","content":"Hello search service","mediaIds":["67baa1480cba1a015d5c3228"]}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-28T07:28:17.001Z'
+}
+{
+  message: 'Event published to RabbitMQ with routing key: post.created',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-28T07:28:17.122Z'
+}
+{
+  message: 'Post created successfully with data: {"user":"67b162792ece6e5704acebd9","content":"Hello search service","mediaIds":["67baa1480cba1a015d5c3228"],"_id":"67c1659143dbf82b0e59ee35","createdAt":"2025-02-28T07:28:17.008Z","updatedAt":"2025-02-28T07:28:17.008Z","__v":0}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-28T07:28:17.126Z'
+}
+{
+  message: 'Auth middleware called',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-28T07:30:38.826Z'
+}
+{
+  message: 'Deleting post in controller: 67c1659143dbf82b0e59ee35',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-28T07:30:38.827Z'
+}
+{
+  message: 'Deleting post with id in service: 67c1659143dbf82b0e59ee35',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-28T07:30:38.827Z'
+}
+{
+  message: 'Deleting Post with id: 67c1659143dbf82b0e59ee35',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-28T07:30:38.828Z'
+}
+{
+  message: 'Event published to RabbitMQ with routing key: post.deleted',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-28T07:30:38.884Z'
+}
+{
+  message: 'Post deleted successfully with data: {"_id":"67c1659143dbf82b0e59ee35","user":"67b162792ece6e5704acebd9","content":"Hello search service","mediaIds":["67baa1480cba1a015d5c3228"],"createdAt":"2025-02-28T07:28:17.008Z","updatedAt":"2025-02-28T07:28:17.008Z","__v":0}',
+  level: 'info',
+  service: 'identity-service',
+  timestamp: '2025-02-28T07:30:38.885Z'
+}

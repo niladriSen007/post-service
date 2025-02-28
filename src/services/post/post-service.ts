@@ -34,6 +34,13 @@ export class PostService {
         throw new GlobalErrorResponse(requestBodyValidation.error.message, StatusCodes.BAD_REQUEST);
       }
       const newPost = await this.postRepository.create(req?.body)
+      if(newPost){
+        await services.MessageBroker.publishEventToQueue("post.created", {
+          postId: newPost?._id,
+          userId: req?.user?.id,
+          content: req?.body?.content,
+        });
+      }
       await this.invalidateCache(req, newPost?._id as string);
       return newPost
     } catch (error) {
